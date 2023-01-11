@@ -84,6 +84,7 @@ $fileSvg = <<<'EOD'
                         	<polygon id="XMLID_1001_" style="fill:#FFFFFF;" points="125,220 205,220 285,220 285,190 205,190 125,190 	"/>
                         	<polygon id="XMLID_1002_" style="fill:#FFFFFF;" points="125,280 205,280 285,280 285,250 205,250 125,250 	"/>
                         	<polygon id="XMLID_1003_" style="fill:#ACABB1;" points="125,0 55,70 56.707,70 125,70 	"/>
+                        </g>
                         </svg>
 EOD;
 
